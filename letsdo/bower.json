@@ -1,0 +1,19 @@
+{
+  "name": "letsdo",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chosen": "~1.4.2",
+    "jquery": "~2.1.4"
+  }
+}
